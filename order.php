@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is try add page </h1>
-    <h2> Update in git </h2>
+    <h3>Hello Branch</h3>
 </body>
 </html>
